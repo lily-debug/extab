@@ -26,7 +26,7 @@
     
     
  ## 效果图
- 如果gif加载慢，才去官网[www.extab.cn](www.extab.cn)看效果
+ 如果gif加载慢，可以去官网www.extab.cn看效果
  ![image](https://github.com/lily-debug/extab/raw/master/GIF%202020-6-20%209-56-03.gif)
  ## 关于
    大家使用过程中，请大家多多提issue或联系2366847191@qq.com。
