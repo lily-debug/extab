@@ -1,4 +1,4 @@
- ## Extab（multi tab explorer）是一款多标签资源管理器，多标签文件夹。可以像浏览器一样用多标签管理每个文件夹，以便更加快速高效的切换文件夹。
+ ## Extab 1.0.0.5（multi tab explorer）是一款多标签资源管理器，多标签文件夹。可以像浏览器一样用多标签管理每个文件夹，以便更加快速高效的切换文件夹。
  
  ## 下载
    ### [安装包 mini_installer.exe 2.3M](https://github.com/lily-debug/extab/releases/download/1.0.0.5/mini_installer.exe)    
