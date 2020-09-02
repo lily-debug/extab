@@ -2,7 +2,7 @@
  
  ## 下载
    ### [安装包 mini_installer.exe 2.3M](https://github.com/lily-debug/extab/releases/download/1.0.0.8/mini_installer.exe)    
-   ### [绿色包 extab.zip 0.9M](https://github.com/lily-debug/extab/releases/download/1.0.0.8/extab.7z)
+   ### [绿色包 extab.7z 0.8M](https://github.com/lily-debug/extab/releases/download/1.0.0.8/extab.7z)
    
    
  ## 功能 
